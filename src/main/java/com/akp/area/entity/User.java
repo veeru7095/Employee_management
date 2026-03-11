@@ -29,4 +29,5 @@ public class User {
 	@Column(name="address" ,nullable= false ,unique=true)
 	private String address;
 	
+	
 }
